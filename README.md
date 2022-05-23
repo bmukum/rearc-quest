@@ -5,7 +5,7 @@ This repo contains code to deploy rearc's quest app to Amazon ECS using terrafor
 ### Prerequisites
 
 - A Linux 64-bit x86/64 ec2 instance
-- AWS credentials or access to an aws environment
+- AWS credentials or access to an aws environment with admin privileges.
 - Docker, terraform, git and the aws cli installed.
 
 ### Steps to Deploy
